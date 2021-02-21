@@ -1,0 +1,103 @@
+<div class="panels">
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+</div>
+
+
+<div class="panels">
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+</div>
+
+
+<div class="panels">
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+</div>
+
+
+<div class="panels">
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+</div>
+
+
+<div class="panels">
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+</div>
+
+
+<div class="panels">
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+  <a href="javascript:void(0)" class="panel">
+    <div class="panel__content"></div>
+  </a>
+</div>
