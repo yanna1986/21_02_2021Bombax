@@ -5,8 +5,9 @@
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: green;
+  color: rgb(231, 236, 231);
 }
+
 
 
 /* CUSTOMIZE THE CAROUSEL
@@ -39,6 +40,7 @@ body {
 -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
+
 .marketing .col-lg-4 {
   margin-bottom: 1.5rem;
   text-align: center;
